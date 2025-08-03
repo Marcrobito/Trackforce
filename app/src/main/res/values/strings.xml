@@ -1,0 +1,17 @@
+<resources>
+    <string name="location_permission_title">Location Permission Required</string>
+    <string name="location_permission_message">This app needs access to your location to display the current weather information.</string>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_fetching_weather">Error fetching weather data.</string>
+
+    <string name="app_name">Trackforce</string>
+    <string name="weather_icon_description">weather icon</string>
+    <string name="humidity_label">Humidity: %1$d%%</string>
+    <string name="apparent_temperature_label">Apparent Temperature: %1$d°</string>
+    <string name="wind_speed_label">Wind: %1$dkm/h</string>
+    <string name="temperature_label">%1$d°</string>
+    <string name="celsius_degrees_label">°C</string>
+    <string name="allow_location">Allow Location</string>
+
+</resources>
